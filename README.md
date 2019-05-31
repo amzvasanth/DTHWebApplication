@@ -3,7 +3,7 @@
 ### DTHWebApplication Spring Boot Application for DEVOPS Training
 
 
-#Doing this change to test git hook
+#Doing this change to test git and jinkins integration
 ```
 mvn install -Dmaven.test.skip=true
 ```
