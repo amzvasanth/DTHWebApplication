@@ -1,8 +1,7 @@
 # DTHWebApplication
 
-####### DTHWebApplication Spring Boot Application for DEVOPS Training
+### DTHWebApplication Spring Boot Application for DEVOPS Training Demo
 
-##Doing this change to test git and jinkins integration
 ```
 mvn install -Dmaven.test.skip=true
 ```
@@ -52,6 +51,7 @@ ENV NAME World
 CMD ["java", "-jar","dth-web-application-0.0.1-SNAPSHOT.war"]
 
 ```
+
 ```
 [centos@ip-172-31-31-213 DTHImage]$ sudo docker build .
 ```
